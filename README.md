@@ -19,6 +19,8 @@ EF Core 7.0
 
 PostgreSql
 
+Docker
+
 Clean Code Architecture
 
 Domain Derived Design
@@ -28,8 +30,6 @@ MapperProfile
 FluentValidation
 
 DependencyInjection
-
-Docker
 
 Unittest
 
