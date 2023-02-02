@@ -2,7 +2,7 @@
 
 # Kudos API
 
-Api able to give kudos and exchange received. Make specific month kudos report.
+Kudos API is a software application that allows users to give and exchange kudos. The main purpose of this application is to provide a specific monthly report of the kudos received.
 
 
 
@@ -10,29 +10,29 @@ Api able to give kudos and exchange received. Make specific month kudos report.
 ## How to use application
 
 
-To start application in the Visual Studio, click button Docker Compose or write in the cmd docker-compose up.
+To use the application, you need to have Visual Studio installed on your system. You can start the application by clicking the "Docker Compose" button or by running the command "docker-compose up" in the command line interface.
 
-## Technology was used in this project
+## The technology used in this project includes:
 
 
-EF Core 7.0
+Entity Framework Core 7.0 - An Object-Relational Mapping (ORM) framework that allows you to interact with the database using C# code.
 
-PostgreSql
+PostgreSQL - An open-source relational database management system that is used to store the data for this application.
 
-Docker
+Docker - A platform that allows you to run, deploy, and manage containers that contain your applications and services.
 
-Clean Code Architecture
+Clean Code Architecture - A software design pattern that emphasizes writing clean and maintainable code.
 
-Domain Derived Design
+Domain-Driven Design (DDD) - A software design pattern that emphasizes the importance of defining and understanding the business domain.
 
-MapperProfile
+MapperProfile - A tool that maps the data from one type of object to another.
 
-FluentValidation
+FluentValidation - A library that allows you to write simple and intuitive validation rules for your data models.
 
-DependencyInjection
+Dependency Injection - A software design pattern that allows you to manage the dependencies between your components in a flexible and maintainable way.
 
-Unittest
+Unit Testing - A software testing technique that allows you to test individual units of code in isolation from the rest of the system.
 
-AutoFixture
+AutoFixture - A library that makes it easier to write unit tests by automatically generating test data.
 
-Moq
+Moq - A library that makes it easier to write unit tests by allowing you to create mock objects.
