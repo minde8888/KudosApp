@@ -2,37 +2,41 @@
 
 # Kudos API
 
-Kudos API is a software application that allows users to give and exchange kudos. The main purpose of this application is to provide a specific monthly report of the kudos received.
+Kudos API is a software application that enables users to give and exchange kudos, with the main goal of providing a monthly report of kudos received.
 
 
+## Usage
 
 
-## How to use application
+To use Kudos API, you must have Visual Studio installed on your system. You can start the application by clicking the "Docker Compose" button or by running the command "docker-compose up" in the command line interface.
+
+## Technologies Used
 
 
-To use the application, you need to have Visual Studio installed on your system. You can start the application by clicking the "Docker Compose" button or by running the command "docker-compose up" in the command line interface.
+Kudos API is built using several technologies that include:
 
-## The technology used in this project includes:
+Entity Framework Core 7.0: An ORM framework that facilitates database interaction through C# code.
 
+PostgreSQL: An open-source relational database management system that stores application data.
 
-Entity Framework Core 7.0 - An Object-Relational Mapping (ORM) framework that allows you to interact with the database using C# code.
+Docker: A platform that enables containerization, deployment, and management of application services.
 
-PostgreSQL - An open-source relational database management system that is used to store the data for this application.
+Clean Code Architecture: A software design pattern that promotes writing clean, maintainable code.
 
-Docker - A platform that allows you to run, deploy, and manage containers that contain your applications and services.
+Domain-Driven Design (DDD): A software design pattern that emphasizes defining and understanding the business domain.
 
-Clean Code Architecture - A software design pattern that emphasizes writing clean and maintainable code.
+MapperProfile: A tool that maps data from one object type to another.
 
-Domain-Driven Design (DDD) - A software design pattern that emphasizes the importance of defining and understanding the business domain.
+FluentValidation: A library that simplifies writing intuitive validation rules for data models.
 
-MapperProfile - A tool that maps the data from one type of object to another.
+Dependency Injection: A software design pattern that manages dependencies between components in a flexible and maintainable way.
 
-FluentValidation - A library that allows you to write simple and intuitive validation rules for your data models.
+Unit Testing: A software testing technique that tests individual code units in isolation from the rest of the system.
 
-Dependency Injection - A software design pattern that allows you to manage the dependencies between your components in a flexible and maintainable way.
+AutoFixture: A library that simplifies unit testing by automatically generating test data.
 
-Unit Testing - A software testing technique that allows you to test individual units of code in isolation from the rest of the system.
+Moq: A library that simplifies unit testing by creating mock objects.+
 
-AutoFixture - A library that makes it easier to write unit tests by automatically generating test data.
+## Conclusion
 
-Moq - A library that makes it easier to write unit tests by allowing you to create mock objects.
+Kudos API is a robust software application built using several modern technologies. It provides an easy-to-use platform for users to exchange kudos and generate monthly kudos reports. With its clean code architecture, DDD pattern, and comprehensive testing, Kudos API is a reliable solution for kudos management.
