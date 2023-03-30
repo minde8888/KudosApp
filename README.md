@@ -13,29 +13,29 @@ To use Kudos API, you must have Visual Studio installed on your system. You can 
 ## Technologies Used
 
 
-Kudos API is built using several technologies that include:
+- Kudos API is built using several technologies that include:
 
-Entity Framework Core 7.0: An ORM framework that facilitates database interaction through C# code.
+- Entity Framework Core 7.0: An ORM framework that facilitates database interaction through C# code.
 
-PostgreSQL: An open-source relational database management system that stores application data.
+- PostgreSQL: An open-source relational database management system that stores application data.
 
-Docker: A platform that enables containerization, deployment, and management of application services.
+- Docker: A platform that enables containerization, deployment, and management of application services.
 
-Clean Code Architecture: A software design pattern that promotes writing clean, maintainable code.
+- Clean Code Architecture: A software design pattern that promotes writing clean, maintainable code.
 
-Domain-Driven Design (DDD): A software design pattern that emphasizes defining and understanding the business domain.
+- Domain-Driven Design (DDD): A software design pattern that emphasizes defining and understanding the business domain.
 
-MapperProfile: A tool that maps data from one object type to another.
+- MapperProfile: A tool that maps data from one object type to another.
 
-FluentValidation: A library that simplifies writing intuitive validation rules for data models.
+- FluentValidation: A library that simplifies writing intuitive validation rules for data models.
 
-Dependency Injection: A software design pattern that manages dependencies between components in a flexible and maintainable way.
+- Dependency Injection: A software design pattern that manages dependencies between components in a flexible and maintainable way.
 
-Unit Testing: A software testing technique that tests individual code units in isolation from the rest of the system.
+- Unit Testing: A software testing technique that tests individual code units in isolation from the rest of the system.
 
-AutoFixture: A library that simplifies unit testing by automatically generating test data.
+- AutoFixture: A library that simplifies unit testing by automatically generating test data.
 
-Moq: A library that simplifies unit testing by creating mock objects.+
+- Moq: A library that simplifies unit testing by creating mock objects.
 
 ## Conclusion
 
